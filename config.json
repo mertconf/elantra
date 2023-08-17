@@ -1,0 +1,7 @@
+{
+  "token": "MTExMjY1NDg2NzIxNTk2MjE1NQ.GEYHHC.RK6A20zd-5_vGabHvbSuyOPhCSBN4ZFym0UCFQ",
+  "totalShards": "auto",
+  "topggToken": "",
+  "mongooseToken": "mongodb+srv://elantra:elantra@cluster0.i4rdxcm.mongodb.net/?retryWrites=true&w=majority",
+  "clientLogsWebhookURL": "https://discord.com/api/webhooks/1127580259810803763/3TbuIV6EDgcw7j_zpGKZ9G9rKQWIf1z0IFdzNRN4cp3dweeSGMuak1itq3mDHEOtbnMJ"
+}
